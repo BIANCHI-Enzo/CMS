@@ -43,6 +43,9 @@ cms/
 ├── modules/                # Custom modules or plugins
 │   └── ...
 │
+├── installation/           # Automated installation
+│   └── ...
+│
 ├── themes/                 # Configurable frontend themes
 │   └── default/
 │       ├── css/
